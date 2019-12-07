@@ -8,7 +8,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using Image = System.Windows.Controls.Image;
 
-namespace PDFThumbnailAddon
+namespace PDFThumbnail
 {
 
     public partial class ThumbnailsControl : UserControl

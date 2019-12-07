@@ -1,7 +1,7 @@
 ﻿using System.Windows;
 using System.Windows.Media;
 
-namespace PDFThumbnailAddon
+namespace PDFThumbnail
 {
     public static class WPFHelper
     {

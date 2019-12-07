@@ -5,7 +5,7 @@ using System;
 using System.Reflection;
 using System.Windows.Controls;
 
-namespace PDFThumbnailAddon
+namespace PDFThumbnail
 {
     public static class CitaviHelper
     {

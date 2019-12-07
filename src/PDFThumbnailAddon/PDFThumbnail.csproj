@@ -8,10 +8,11 @@
     <ProjectGuid>{A96F1086-6339-4FB3-B6B7-30E4BD33F314}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>PDFThumbnailAddon</RootNamespace>
+    <RootNamespace>PDFThumbnail</RootNamespace>
     <AssemblyName>PDFThumbnailAddon</AssemblyName>
-    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>

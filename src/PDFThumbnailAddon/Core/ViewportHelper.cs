@@ -1,7 +1,7 @@
 ﻿using System.Windows.Controls;
 using System.Reflection;
 
-namespace PDFThumbnailAddon
+namespace PDFThumbnail
 {
     public static class ViewportHelper
     {

@@ -6,7 +6,7 @@ using System.Windows.Forms;
 using System.Windows.Media.Imaging;
 using System.Linq;
 
-namespace PDFThumbnailAddon
+namespace PDFThumbnail
 {
     public class Addon : CitaviAddOn<MainForm>
     {

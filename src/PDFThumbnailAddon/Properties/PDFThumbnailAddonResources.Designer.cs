@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace PDFThumbnailAddon.Properties {
+namespace PDFThumbnail.Properties {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace PDFThumbnailAddon.Properties {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("PDFThumbnailAddon.Properties.PDFThumbnailAddonResources", typeof(PDFThumbnailAddonResources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("PDFThumbnail.Properties.PDFThumbnailAddonResources", typeof(PDFThumbnailAddonResources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
