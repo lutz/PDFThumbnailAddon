@@ -1,0 +1,7 @@
+organization=lutz
+projectKey=lutz_PDFThumbnailAddon
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8111
+dashboardUrl=https://sonarcloud.io/dashboard?id=lutz_PDFThumbnailAddon
+ceTaskId=AXIsHkUU3CfkszmgB0xb
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXIsHkUU3CfkszmgB0xb
