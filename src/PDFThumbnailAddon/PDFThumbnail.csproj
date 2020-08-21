@@ -106,9 +106,4 @@
     <Resource Include="Resources\thumbs.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
-  <PropertyGroup>
-    <PostBuildEvent>if $(ConfigurationName) == Release  cmd /x /c mkdir "$(SolutionDir)..\packages\" 
-if $(ConfigurationName) == Release  (powershell Compress-Archive -Path '$(TargetDir)*' -DestinationPath '$(SolutionDir)..\packages\$(TargetName).zip' -Force)
-</PostBuildEvent>
-  </PropertyGroup>
 </Project>
